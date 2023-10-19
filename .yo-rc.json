@@ -1,0 +1,15 @@
+{
+  "generator-ui5-app": {
+    "namespace": "com.myorg.myapp",
+    "framework": "OpenUI5",
+    "frameworkVersion": "1.72.49",
+    "author": "Noel Hendrikx",
+    "initrepo": false,
+    "appId": "com.myorg.myapp",
+    "appURI": "com/myorg/myapp",
+    "cdnDomain": "sdk.openui5.org",
+    "defaultTheme": "sap_fiori_3",
+    "qunitCoverageFile": "qunit-coverage.js",
+    "setupCompleted": true
+  }
+}
